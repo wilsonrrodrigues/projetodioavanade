@@ -1,0 +1,13 @@
+C:\Users\Wilson\Desktop\dotnet\projetodio\obj\Debug\netcoreapp3.1\projetodio.csprojAssemblyReference.cache
+C:\Users\Wilson\Desktop\dotnet\projetodio\obj\Debug\netcoreapp3.1\projetodio.AssemblyInfoInputs.cache
+C:\Users\Wilson\Desktop\dotnet\projetodio\obj\Debug\netcoreapp3.1\projetodio.AssemblyInfo.cs
+C:\Users\Wilson\Desktop\dotnet\projetodio\obj\Debug\netcoreapp3.1\projetodio.csproj.CoreCompileInputs.cache
+C:\Users\Wilson\Desktop\dotnet\projetodio\bin\Debug\netcoreapp3.1\projetodio.exe
+C:\Users\Wilson\Desktop\dotnet\projetodio\bin\Debug\netcoreapp3.1\projetodio.deps.json
+C:\Users\Wilson\Desktop\dotnet\projetodio\bin\Debug\netcoreapp3.1\projetodio.runtimeconfig.json
+C:\Users\Wilson\Desktop\dotnet\projetodio\bin\Debug\netcoreapp3.1\projetodio.runtimeconfig.dev.json
+C:\Users\Wilson\Desktop\dotnet\projetodio\bin\Debug\netcoreapp3.1\projetodio.dll
+C:\Users\Wilson\Desktop\dotnet\projetodio\bin\Debug\netcoreapp3.1\projetodio.pdb
+C:\Users\Wilson\Desktop\dotnet\projetodio\obj\Debug\netcoreapp3.1\projetodio.dll
+C:\Users\Wilson\Desktop\dotnet\projetodio\obj\Debug\netcoreapp3.1\projetodio.pdb
+C:\Users\Wilson\Desktop\dotnet\projetodio\obj\Debug\netcoreapp3.1\projetodio.genruntimeconfig.cache
